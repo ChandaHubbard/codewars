@@ -21,8 +21,8 @@
     return -1
   }
   return 1 + 2 * (Math.ceil(Math.log(window/h)/Math.log(bounce))-1)
-}
-
-bouncingBall(3.0, 0.66, 1.5)
-bouncingBall(30.0, 0.66, 1.5)
+  }
+  
+  bouncingBall(3.0, 0.66, 1.5)
+  bouncingBall(30.0, 0.66, 1.5)
 ```
