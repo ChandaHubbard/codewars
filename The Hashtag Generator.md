@@ -13,7 +13,9 @@ Let's help them with our own Hashtag Generator!
 
 Examples
 `" Hello there thanks for trying my Kata"`  =>  `"#HelloThereThanksForTryingMyKata"`
+
 `"    Hello     World   "`                  =>  `"#HelloWorld"`
+
 `""`                                       =>  `false`
 
 #
