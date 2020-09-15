@@ -12,6 +12,7 @@ Let's help them with our own Hashtag Generator!
    - If the input or the result is an empty string it must return `false`.
 
 Examples
+
 `" Hello there thanks for trying my Kata"`  =>  `"#HelloThereThanksForTryingMyKata"`
 
 `"    Hello     World   "`                  =>  `"#HelloWorld"`
