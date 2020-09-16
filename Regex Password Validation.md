@@ -7,3 +7,9 @@ You need to write regex that will validate a password to make sure it meets the 
 - Valid passwords will only be alphanumeric characters.
 
 #
+
+```
+function validate(password) {
+  return /^(?=.*?[0-9])(?=.*?[a-z])(?=.*?[A-Z])[0-9a-zA-Z]{6,}$/.test(password);
+}
+```
